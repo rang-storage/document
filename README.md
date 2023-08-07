@@ -1,1 +1,1 @@
-# mydistro-setup-default
+distro for termux
